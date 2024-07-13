@@ -9,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 <!-- [eatgo_title] -->
-<img src="https://github.com/user-attachments/assets/1566b3f7-27ec-4c5b-a50e-91481baf570c" width="70%" height="70%"  />
+<img src="https://github.com/user-attachments/assets/1566b3f7-27ec-4c5b-a50e-91481baf570c"/>
 
 
 # 🚚EatGo
